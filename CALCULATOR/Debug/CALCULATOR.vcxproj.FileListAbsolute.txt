@@ -1,0 +1,4 @@
+C:\Users\SPECTRE\OneDrive\Desktop\G U I\CALCULATOR\Debug\CALCULATOR.vcxproj.AssemblyReference.cache
+C:\Users\SPECTRE\OneDrive\Desktop\G U I\CALCULATOR\Debug\CALCULATOR.Form1.resources
+C:\Users\SPECTRE\OneDrive\Desktop\G U I\CALCULATOR\Debug\CALCULATOR.vcxproj.GenerateResource.cache
+C:\Users\SPECTRE\OneDrive\Desktop\G U I\CALCULATOR\Debug\CALCULATOR.exe

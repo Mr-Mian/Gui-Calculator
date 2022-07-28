@@ -1,0 +1,4 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\SPECTRE\OneDrive\Desktop\G U I\CALCULATOR\Form1.h(486,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  CALCULATOR.vcxproj -> C:\Users\SPECTRE\OneDrive\Desktop\G U I\CALCULATOR\Debug\CALCULATOR.exe
